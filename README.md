@@ -3,6 +3,8 @@ Paper: [RegNet: Multimodal Sensor Registration Using Deep Neural Networks](https
 
 This implementation is based on https://github.com/aaronlws95/regnet
 
+We add some modifications such as the simple fusion module and the learnable loss.
+
 Thanks for the author Nick Schneider providing some details of the model.
 
 ## Training
